@@ -1,6 +1,5 @@
 <html>
     <input type="button" value="Start Chat" onclick="startChat();"/><br/><br/><br/>
-    <input type="button" value="Close Chat" onclick="clearSession();"/><br/>
     
   <style type='text/css'>
     .embeddedServiceHelpButton .helpButton .uiButton {
